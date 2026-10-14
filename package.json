@@ -1,0 +1,10 @@
+{
+  "name": "retrogames",
+  "version": "1.0.0",
+  "description": "RetroGames: saf JavaScript ile yazılmış 12 retro oyunu bir araya getiren statik oyun portalı.",
+  "private": true,
+  "scripts": {
+    "start": "npx --yes serve ."
+  },
+  "keywords": ["javascript", "canvas", "retro-games", "arcade"]
+}
