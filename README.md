@@ -1,5 +1,7 @@
 # RetroGames
 
+> **Bu depo arşivlendi.** Proje, [alicmn/game-website](https://github.com/alicmn/game-website) çatalı olarak [pietro379/game-website](https://github.com/pietro379/game-website) deposunda geliştirilmeye devam ediyor (canlı demo: [pietro379.github.io/game-website](https://pietro379.github.io/game-website/)).
+
 Klasik atari oyunlarını tek bir çatı altında toplayan, tarayıcıda çalışan statik oyun portalı. 12 oyun, saf JavaScript; derleme adımı, framework ve sunucu tarafı yok.
 
 ![Ana sayfa](docs/home.png)
